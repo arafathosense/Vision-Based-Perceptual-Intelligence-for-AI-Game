@@ -89,5 +89,14 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 Special thanks to the developers of ViZDoom for providing a powerful platform for AI research.
 
 
+## 👤 Author
+
+**HOSEN ARAFAT**  
+
+**Bachelor of Software Engineering, China**  
+
+**GitHub:** https://github.com/arafathosense
+
+**Research Interest: Image Computing and Perceptual Intelligence**
 
 
