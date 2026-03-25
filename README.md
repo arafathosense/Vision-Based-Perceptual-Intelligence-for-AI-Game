@@ -8,13 +8,13 @@ Built on top of the ViZDoom environment, this project explores the integration o
 ![ViZDoom Demo](https://raw.githubusercontent.com/arafathosense/Vision-Based-Perceptual-Intelligence-for-AI-Game/master/docs/_static/img/envs/VizdoomDeathmatch-Doom2.gif)
 ![ViZDoom Demo](https://raw.githubusercontent.com/arafathosense/Vision-Based-Perceptual-Intelligence-for-AI-Game/master/docs/_static/img/envs/VizdoomDefendLine-Doom2.gif)
 ![ViZDoom Demo](https://raw.githubusercontent.com/arafathosense/Vision-Based-Perceptual-Intelligence-for-AI-Game/master/docs/_static/img/envs/VizdoomPredictPosition-Doom2.gif)
-![ViZDoom Demo](https://raw.githubusercontent.com/arafathosense/Vision-Based-Perceptual-Intelligence-for-AI-Game/master/docs/_static/img/envs/VizdoomPredictPosition-Freedoom2.gif)
-
 ![ViZDoom Demo](https://raw.githubusercontent.com/arafathosense/Vision-Based-Perceptual-Intelligence-for-AI-Game/master/docs/_static/img/envs/VizdoomBasicAudio-Freedoom2.gif)
 ![ViZDoom Demo](https://raw.githubusercontent.com/arafathosense/Vision-Based-Perceptual-Intelligence-for-AI-Game/master/docs/_static/img/envs/VizdoomDeadlyCorridor-Doom2.gif)
 ![ViZDoom Demo](https://raw.githubusercontent.com/arafathosense/Vision-Based-Perceptual-Intelligence-for-AI-Game/master/docs/_static/img/envs/VizdoomBasicNotifications-Freedoom2.gif)
 ![ViZDoom Demo](https://raw.githubusercontent.com/arafathosense/Vision-Based-Perceptual-Intelligence-for-AI-Game/master/docs/_static/img/envs/VizdoomHealthGathering-Freedoom2.gif)
 ![ViZDoom Demo](https://raw.githubusercontent.com/arafathosense/Vision-Based-Perceptual-Intelligence-for-AI-Game/master/docs/_static/img/envs/VizdoomTakeCover-Doom2.gif)
+![ViZDoom Demo](https://raw.githubusercontent.com/arafathosense/Vision-Based-Perceptual-Intelligence-for-AI-Game/master/docs/_static/img/envs/VizdoomPredictPosition-Freedoom2.gif)
+
 
 ## 🎯 Objectives
 
