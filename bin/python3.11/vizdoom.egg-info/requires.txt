@@ -1,0 +1,16 @@
+numpy
+gymnasium>=0.28.0
+pygame-ce>=2.1.3
+
+[dev]
+pytest
+pytest-xdist
+psutil
+pybind11-stubgen
+black
+isort
+
+[test]
+pytest
+pytest-xdist
+psutil
